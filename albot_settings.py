@@ -1,0 +1,5 @@
+G_nick=""
+G_login=""
+G_haslo=""
+G_folderznajomych="znajomi"
+G_pierwszaosoba=""
